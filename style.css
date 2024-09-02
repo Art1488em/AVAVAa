@@ -1,0 +1,15 @@
+
+.card{
+    border: 2px solid black;
+    width: 300px;
+    height: 500px;
+    padding: 20px;
+    img{
+        width: 100%;
+    }
+       
+    
+}
+.red{
+    background-color: rgb(0, 0, 0);
+}
